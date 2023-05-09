@@ -2,7 +2,7 @@
 
 This is a simple email and SMS spam classifier built using Naive Bayes. The model achieves an accuracy of 98.2% and performs well on unseen data. The project also includes a user-friendly interface using Streamlit.
 
-# Installation
+## Installation
 
 To install and run the project, follow these steps:
 
@@ -12,7 +12,7 @@ To install and run the project, follow these steps:
 
 Note: The trained model and vectorizer object are included in the repository. If you want to train the model on your own dataset, you can use the spam_project.ipynb notebook provided.
 
-# Usage
+## Usage
 
 To use the email and SMS spam classifier, follow these steps:
 
@@ -20,7 +20,7 @@ To use the email and SMS spam classifier, follow these steps:
     2. Enter the text to be classified as either spam or not.
     3. The system will use the trained model to classify the text and display the result.
 
-# Contributing
+## Contributing
 
 We welcome contributions to this project. If you want to contribute, please follow these guidelines:
 
@@ -30,5 +30,5 @@ We welcome contributions to this project. If you want to contribute, please foll
     4. Push your changes to your forked repository.
     5. Create a pull request with a clear description of your changes.
 
-# Contact
+## Contact
 If you have any questions or issues, please contact me at rishabhvyas472@gmail.com
